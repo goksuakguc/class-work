@@ -1,0 +1,28 @@
+#par1 {
+    font-family: cursive;
+    background-color: darkgreen
+}
+
+#firstname {
+    float: left;
+    background-color: yellow;
+}
+
+#par2{
+    font-size: 50px;
+  
+}
+
+#par3{
+    font-weight: 900;
+    line-height: 200%;
+}
+
+#par4{
+    line-height: 200%;
+}
+
+#par5{
+    letter-spacing: 5px;
+    color: blue
+}
