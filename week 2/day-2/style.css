@@ -9,6 +9,8 @@
 }
 
 #par2{
+   float: left;
+    width: 50%;
     font-size: 50px;
   
 }
@@ -23,6 +25,9 @@
 }
 
 #par5{
+    float: left;
+    width: 40%;
+    font-size: 50px;
     letter-spacing: 5px;
     color: blue
 }
